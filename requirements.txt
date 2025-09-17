@@ -5,3 +5,4 @@ Flask-Migrate
 marshmallow
 marshmallow-sqlalchemy
 python-dotenv
+Gunicorn
